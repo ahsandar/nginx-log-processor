@@ -1,7 +1,7 @@
 ___
-```
-I have tried to write all code without helps from any Gems to keep it simple and not add clutter to code or execution.
-```
+`
+I have written all code without helps from any Gems to keep it simple and not add clutter to code or execution.
+`
 
 
 ___
